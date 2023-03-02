@@ -8,5 +8,10 @@ body{
 }
 .reg h1{
     text-align: center;
+<<<<<<< HEAD
     text-decoration: none;
+=======
+    font-family: sans-serif;
+    font-size: large;
+>>>>>>> 469f9fe4c0105af7306f150a434fde5cd3103d90
 }
